@@ -1,0 +1,7 @@
+﻿# Security - Never commit these files
+credentials/
+*.json
+*.pickle
+.env
+__pycache__/
+*.pyc
